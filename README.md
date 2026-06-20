@@ -69,7 +69,7 @@ lib/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/car-shop-rakoo.git
+    git clone https://github.com/hashcoder01/Car-Shop.git
     ```
 2.  **Navigate to the project folder:**
     ```bash
